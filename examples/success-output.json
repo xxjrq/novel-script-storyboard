@@ -1,0 +1,30 @@
+{
+  "title": "雨夜的信",
+  "source_type": "novel_or_screenplay_excerpt",
+  "duration_seconds": 15,
+  "characters": [{
+    "name": "林舟",
+    "role": "推动当前事件的视角人物",
+    "goal": "确认线索并做出下一步选择",
+    "conflict": "信息来源不明，行动可能带来代价",
+    "relationship": "待从原文确认",
+    "facts": ["夜里，林舟在车站等末班车"],
+    "source_anchor": "夜里，林舟在车站等末班车"
+  }],
+  "scenes": [{
+    "scene_id": "S01",
+    "location": "站台",
+    "time": "夜里",
+    "purpose": "林舟发现线索并决定继续行动",
+    "characters": ["林舟"],
+    "actions": ["夜里，林舟在车站等末班车。", "他发现长椅下有一个湿透的信封，封面写着自己的名字。", "远处列车进站，林舟抬头看向站台，随后把信收进外套。"],
+    "dialogue": [],
+    "source_anchor": "夜里，林舟在车站等末班车",
+    "shots": [
+      {"shot_id": "S01-01", "duration_seconds": 5, "framing": "远景", "camera": "固定机位", "visual": "将原文动作转为可见画面：夜里，林舟在车站等末班车。", "action": "夜里，林舟在车站等末班车。", "dialogue_or_voiceover": "", "sound": "环境声随动作变化", "source_anchor": "夜里，林舟在车站等末班车。", "creative_note": "新增镜头表达，人物和事件以原文为准"},
+      {"shot_id": "S01-02", "duration_seconds": 5, "framing": "中景", "camera": "缓慢推进", "visual": "将原文动作转为可见画面：他发现长椅下有一个湿透的信封，封面写着自己的名字。", "action": "他发现长椅下有一个湿透的信封，封面写着自己的名字。", "dialogue_or_voiceover": "", "sound": "环境声随动作变化", "source_anchor": "他发现长椅下有一个湿透的信封，封面写着自己的名字。", "creative_note": "新增镜头表达，人物和事件以原文为准"},
+      {"shot_id": "S01-03", "duration_seconds": 5, "framing": "近景", "camera": "缓慢推进", "visual": "将原文动作转为可见画面：远处列车进站，林舟抬头看向站台，随后把信收进外套。", "action": "远处列车进站，林舟抬头看向站台，随后把信收进外套。", "dialogue_or_voiceover": "", "sound": "环境声随动作变化", "source_anchor": "远处列车进站，林舟抬头看向站台，随后把信收进外套。", "creative_note": "新增镜头表达，人物和事件以原文为准"}
+    ]
+  }],
+  "gaps": ["原文没有可识别的对白，需确认是否需要补写"]
+}
