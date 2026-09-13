@@ -1,6 +1,6 @@
 {
   "name": "novel-script-storyboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "把小说或剧本片段整理成可拍摄的中文分镜，输出 Markdown 和结构化 JSON。",
   "private": false,
   "license": "MIT",

@@ -1,9 +1,10 @@
 name: "novel-script-storyboard"
 display_name: "小说剧本转分镜"
 slug: "novel-script-storyboard"
-version: "1.0.0"
+version: "1.0.1"
 category: "writing"
 author: "xxjrq"
+repository: "https://github.com/xxjrq/novel-script-storyboard"
 description: "把小说或剧本片段整理成可拍摄分镜，同时输出 Markdown 和 JSON，不需要 API Key。"
 icon: "icon-512.png"
 trigger_words:
