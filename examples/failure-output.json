@@ -1,1 +1,4 @@
-{"status":"needs_more_source","message":"请提供至少一个包含人物、场景或完整动作的故事片段。"}
+{
+  "status": "needs_more_source",
+  "message": "目前只有标题，未提供可改编的故事内容。"
+}
